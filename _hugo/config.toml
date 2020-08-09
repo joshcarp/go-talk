@@ -1,4 +1,4 @@
-baseURL = "https://joshcarp.com/talks"
+baseURL = "https://joshcarp.com/talks-go"
 languageCode = "en-us"
 title = "An introduction to Go"
 
